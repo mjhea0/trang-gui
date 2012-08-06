@@ -1,6 +1,5 @@
 Powered by Excel and VBA, this tool provides a frontend to Trang, which is used to convert one Schema to another Schema for XML.
 
-This video shows how to generate XML schema from an XML file and convert one Schema to another Schema using a customized Excel-based GUI.
 
 
 The following languages are supported the following languages:
